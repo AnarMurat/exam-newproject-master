@@ -1,0 +1,20 @@
+{
+  "brands": [
+    {
+      "id": 0,
+      "name": "Adidas"
+    },
+    {
+      "id": 1,
+      "name": "Reebok"
+    },
+    {
+      "id":2,
+      "name":"Nike" 
+    },
+    {
+      "id":3,
+      "name": "Puma"
+    }
+  ]
+}
